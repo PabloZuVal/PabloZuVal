@@ -14,6 +14,19 @@ Currently, I'm immersed in learning the most advanced techniques and tools in Ma
 
 I'm constantly seeking opportunities to apply these concepts to real-world projects and collaborate with other machine learning enthusiasts.
 
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=important)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=flask&logoColor=white&color=black)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=inactive)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=white)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+
 <!---
 
 ## Featured Projects
