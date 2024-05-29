@@ -1,34 +1,36 @@
-# ¡Bienvenido a mi perfil de GitHub!
+# Welcome to my GitHub profile!
 
-Hola, soy Pablo, un desarrollador de software en transición hacia el fascinante mundo del Machine Learning y Deep Learning. Con una sólida experiencia en programación, estoy emocionado por aplicar mis habilidades y conocimientos en el campo de la Inteligencia Artificial.
+Hello, I'm Pablo, a software developer transitioning into the fascinating world of Machine Learning and Deep Learning. With a solid background in programming, I'm excited to apply my skills and knowledge to the field of Artificial Intelligence.
 
-## Mi viaje en el aprendizaje automático
+## My journey in machine learning
 
-Actualmente, estoy sumergido en el aprendizaje de las técnicas y herramientas más avanzadas de Machine Learning y Deep Learning. Algunos de los temas que estoy explorando incluyen:
+Currently, I'm immersed in learning the most advanced techniques and tools in Machine Learning and Deep Learning. Some of the topics I'm exploring include:
 
-- Redes Neuronales Artificiales
-- Aprendizaje Supervisado y No Supervisado
-- Procesamiento del Lenguaje Natural (NLP)
-- Visión por Computadora
-- Análisis de Datos y Visualización
+- Artificial Neural Networks
+- Supervised and Unsupervised Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Data Analysis and Visualization
 
-Estoy constantemente buscando oportunidades para aplicar estos conceptos en proyectos del mundo real y colaborar con otros entusiastas del aprendizaje automático.
+I'm constantly seeking opportunities to apply these concepts to real-world projects and collaborate with other machine learning enthusiasts.
+
 <!---
 
-## Proyectos destacados
+## Featured Projects
 
-### [Nombre del proyecto de ML/DL 1](enlace al proyecto 1)
-Breve descripción del proyecto 1 y las técnicas de Machine Learning o Deep Learning utilizadas.
+### [ML/DL Project Name 1](link to project 1)
+Brief description of project 1 and the Machine Learning or Deep Learning techniques used.
 
-### [Nombre del proyecto de ML/DL 2](enlace al proyecto 2)
-Breve descripción del proyecto 2 y las técnicas de Machine Learning o Deep Learning utilizadas.
+### [ML/DL Project Name 2](link to project 2)
+Brief description of project 2 and the Machine Learning or Deep Learning techniques used.
+
 --->
-## Contacto
 
-Si compartimos la pasión por el Machine Learning y el Deep Learning, o si tienes algún proyecto interesante en el que podamos colaborar, ¡no dudes en contactarme!
+## Contact
 
-- Email: [tu email]
-- LinkedIn: [enlace a tu perfil de LinkedIn]
-- Twitter: [@tu_usuario_de_twitter](enlace a tu perfil de Twitter)
+If we share a passion for Machine Learning and Deep Learning, or if you have an interesting project we could collaborate on, don't hesitate to reach out!
 
-Estoy emocionado por las infinitas posibilidades que ofrece el campo del aprendizaje automático y espero poder contribuir a la comunidad con mis habilidades y proyectos. ¡Gracias por visitar mi perfil y espero que podamos conectarnos pronto!
+- Email: pablo.zuniga.vale@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pablozunigavalenzuela/
+
+I'm excited about the endless possibilities offered by the field of machine learning and hope to contribute to the community with my skills and projects. Thank you for visiting my profile, and I look forward to connecting with you soon!
