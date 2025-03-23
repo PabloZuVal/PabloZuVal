@@ -1,4 +1,4 @@
-# Pablo Zuniga
+# Pablo Zúñiga Valenzuela
 
 Software Engineer with experience across multiple domains and technologies. I focus on delivering clean, maintainable code and effective solutions to complex problems.
 
