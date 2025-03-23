@@ -1,96 +1,43 @@
-# Welcome to my GitHub profile!
+# Pablo Zuniga
 
-Hello, I'm Pablo, a Software Engineer specialized in Android Development with a strong background in Web Development and Data Science. My diverse experience allows me to approach mobile development with a comprehensive understanding of software architecture, data handling, and user experience.
+Software Engineer with experience across multiple domains and technologies. I focus on delivering clean, maintainable code and effective solutions to complex problems.
 
-## 🚀 Engineering Philosophy & Expertise
+> [!NOTE]
+> Currently open to collaboration on innovative projects and technical discussions!
 
-I build software following solid engineering principles and best practices:
+## 🚀 Engineering Philosophy
 
-- **Architecture Patterns**: Extensive experience with MVVM and MVI architectures, ensuring clean separation of concerns and maintainable codebases
-- **SOLID Principles**: Strong advocate for SOLID principles in software design, creating robust and scalable applications
-- **Clean Architecture**: Implementation of clean architecture patterns, separating business logic from implementation details
-- **Testing**: Comprehensive testing strategies including unit tests, integration tests, and UI tests
-- **Object-Oriented Programming**: Deep understanding of OOP concepts and their practical application
-- **Reactive Programming**: Experience with reactive patterns and state management
-- **CI/CD**: Implementation of automated testing and deployment pipelines
+> [!TIP]
+> My approach combines proven engineering principles with practical implementation strategies.
 
-## 📱 Featured Android Projects
-
-### MACH App Clone
-A sophisticated payment application clone showcasing advanced Android development practices:
-- **Architecture**: Clean Architecture with MVVM pattern and MVI for state management
-- **Technologies**:
-  - Kotlin Coroutines for asynchronous operations
-  - Jetpack Compose for modern UI
-  - Room Database for local storage
-  - Retrofit for API communication
-  - Dagger Hilt for dependency injection
-- **Security**: Implementation of secure payment protocols and data encryption
-- **Testing**: Comprehensive unit tests with JUnit and Mockito, UI tests with Espresso
-
-### Digital Signature Platform
-An enterprise-level application for electronic signature management:
-- **Architecture**: Multi-module clean architecture implementing SOLID principles
-- **Features**:
-  - Biometric authentication
-  - PDF manipulation and digital signing
-  - Real-time signature tracking
-  - Secure document storage
-- **Technologies**:
-  - Flow for reactive programming
-  - WorkManager for background tasks
-  - Firebase for real-time updates
-  - Custom certificate handling
+- **Architecture & Design**: SOLID principles, clean architecture, and design patterns
+- **Quality Assurance**: Comprehensive testing strategies and code quality practices
+- **Collaboration**: Strong team player with experience in Agile methodologies
+- **Continuous Learning**: Always exploring new technologies and approaches
 
 ## 💻 Technical Expertise
 
-### Mobile Development
-- Kotlin & Android SDK
-- Clean Architecture
-- MVVM & MVI Patterns
-- Jetpack Components
-- Compose UI
-- Android Security
+> [!IMPORTANT]
+> Cross-domain knowledge allowing me to bridge different aspects of software development.
 
-### Web Development
-- JavaScript/TypeScript
-- React.js
-- Node.js
-- RESTful APIs
-- SQL & NoSQL Databases
+- **Languages**: Kotlin, JavaScript/TypeScript, Python
+- **Frontend**: React.js, Jetpack Compose, UI/UX design principles
+- **Backend**: RESTful APIs, database design, server architecture
+- **Tools & Practices**: Git, CI/CD, Docker, Test-Driven Development
+- **Data**: SQL/NoSQL databases, data processing, basic ML concepts
 
-### Data Science Experience
-- Python for Data Analysis
-- Machine Learning Basics
-- Data Visualization
-- Statistical Analysis
-- SQL for Data Processing
+## 🛠 Notable Skills
 
-## 🛠 Current Tech Stack
+- Creating modular, scalable software architectures
+- Implementing reactive programming patterns
+- Automating development workflows
+- Cross-platform development strategies
+- System integration and API design
 
-### Primary
-- Kotlin
-- Android SDK
-- Jetpack Compose
-- Coroutines & Flow
-- Room Database
-- Retrofit
-- Dagger Hilt
-- JUnit & Espresso
-
-### Secondary
-- JavaScript/TypeScript
-- React.js
-- Python
-- SQL
-- Docker
-- Git
-
-## 📫 Contact
-
-I'm always interested in connecting with fellow developers and discussing software engineering practices, mobile development, or potential collaborations.
+## 📫 Connect
 
 - Email: pablo.zuniga.vale@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pablozunigavalenzuela/
+- LinkedIn: [Pablo Zuniga Valenzuela](https://www.linkedin.com/in/pablozunigavalenzuela/)
 
-Feel free to explore my projects and reach out if you'd like to discuss software development, architecture patterns, or innovative mobile solutions!
+> [!WARNING]
+> Once you connect, expect interesting technical conversations and collaborative opportunities!
