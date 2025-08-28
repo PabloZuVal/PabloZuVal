@@ -1,12 +1,39 @@
 <div align="center">
-  
+
 # Hi there, I'm Pablo Zúñiga Valenzuela 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI+Developer;4%2B+years+building+solutions)](https://git.io/typing-svg)
 
-**Software Engineer passionate about AI and creating real-world solutions**  
-Currently integrating OpenAI APIs and building conversational agents with Chainlit 🤖
+**Software Engineer passionate about AI and creating real-world solutions**
+📍 Valparaíso, Chile | 🎓 MSc Computer Engineering Student @ PUCV
 
+🤖 Currently @QAgent: Building conversational AI agents with Chainlit & OpenAI APIs
+
+</div>
+
+---
+
+### 💼 Currently Working On
+
+<div align="center">
+
+🔭 **AI Agent Development** at QAgent - Creating custom AI solutions with Chainlit & FastAPI
+🌱 **Learning**: LangChain, Vector Databases, Prompt Engineering
+👯 **Collaborating on**: Open source AI/ML projects
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloZuVal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZuVal&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloZuVal&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -15,46 +42,77 @@ Currently integrating OpenAI APIs and building conversational agents with Chainl
 
 <div align="center">
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Backend**  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**AI/ML & Data**  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Chainlit](https://img.shields.io/badge/-Chainlit-FF5733?style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Database & Tools**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 🌟 Featured Project
+### 🎯 Quick Facts
+
+```python
+class PabloZuniga:
+    def __init__(self):
+        self.role = "Full Stack Engineer"
+        self.company = "QAgent"
+        self.location = "Valparaíso, Chile 🇨🇱"
+        self.experience_years = 4
+        self.current_focus = ["AI Agents", "NLP", "Full Stack Development"]
+        self.certifications = ["Scrum Master Professional", "AWS Technical Essentials"]
+        
+    def currently_learning(self):
+        return ["LangChain", "Vector Databases", "Advanced Prompt Engineering"]
+```
+
+---
+
+### 🏆 Certifications
 
 <div align="center">
-  
-**[NeumDetect](https://github.com/PabloZuVal/NeumDetect)** 🫁  
-*AI-powered pneumonia detection from chest X-rays*
 
-Built with TensorFlow • FastAPI • Streamlit • GCP Vertex AI  
-Achieving rapid and accurate diagnostics for early respiratory infection detection
+![Scrum Master](https://img.shields.io/badge/Scrum_Master_Professional-SMPC-blue?style=flat-square&logo=scrumalliance)
+![AWS](https://img.shields.io/badge/AWS_Technical_Essentials-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Scrum Foundation](https://img.shields.io/badge/Scrum_Foundation-SFPC-green?style=flat-square&logo=scrumalliance)
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🫁 NeumDetect</h3>
+      <a href="https://github.com/PabloZuVal/NeumDetect">
+        <img src="https://img.shields.io/badge/AI%20Health-Pneumonia%20Detection-red?style=for-the-badge" alt="NeumDetect"/>
+      </a>
+      <p><b>Tech:</b> TensorFlow, FastAPI, Streamlit</p>
+      <p>AI-powered chest X-ray analysis for rapid pneumonia detection</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 AI Agents Platform</h3>
+      <img src="https://img.shields.io/badge/QAgent-Conversational%20AI-blue?style=for-the-badge" alt="QAgent"/>
+      <p><b>Tech:</b> Chainlit, OpenAI, PostgreSQL</p>
+      <p>Custom AI agents for business automation</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -63,7 +121,7 @@ Achieving rapid and accurate diagnostics for early respiratory infection detecti
 ### 📫 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablozunigavalenzuela/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pablozuniga.me/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablozunigavalenzuela@gmail.com)
