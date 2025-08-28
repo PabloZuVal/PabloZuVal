@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Pablo Zúñiga Valenzuela 👋
+# Hi there, I'm Pablo! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI+Developer;4%2B+years+building+solutions)](https://git.io/typing-svg)
 
@@ -69,8 +69,8 @@
 
 **4+ years** building solutions | **10+ projects** delivered | **3 companies** impacted
 
-🎓 **Currently:** MSc Computer Engineering @ PUCV  
-🚀 **Focus:** AI Agents • NLP • Full Stack Development  
+🎓 **Currently:** MSc Computer Engineering @ PUCV
+🚀 **Focus:** AI Agents • NLP • Full Stack Development
 📚 **Learning:** LangChain • Vector Databases • Prompt Engineering
 
 </div>
