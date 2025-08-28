@@ -63,19 +63,17 @@
 
 ### 🎯 Quick Facts
 
-```python
-class PabloZuniga:
-    def __init__(self):
-        self.role = "Full Stack Engineer"
-        self.company = "QAgent"
-        self.location = "Valparaíso, Chile 🇨🇱"
-        self.experience_years = 4
-        self.current_focus = ["AI Agents", "NLP", "Full Stack Development"]
-        self.certifications = ["Scrum Master Professional", "AWS Technical Essentials"]
-        
-    def currently_learning(self):
-        return ["LangChain", "Vector Databases", "Advanced Prompt Engineering"]
-```
+<div align="center">
+
+**👨‍💻 Full Stack Engineer** | **🏢 QAgent** | **📍 Valparaíso, Chile** 🇨🇱
+
+**4+ years** building solutions | **10+ projects** delivered | **3 companies** impacted
+
+🎓 **Currently:** MSc Computer Engineering @ PUCV  
+🚀 **Focus:** AI Agents • NLP • Full Stack Development  
+📚 **Learning:** LangChain • Vector Databases • Prompt Engineering
+
+</div>
 
 ---
 
